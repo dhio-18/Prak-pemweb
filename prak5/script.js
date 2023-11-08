@@ -1,3 +1,6 @@
+/* Dhio Eko Permana */
+/*   121140086   */
+/*       RB      */
 // deklarasi variabel mengambil element dengan id display
 let display = document.getElementById('display');
 
