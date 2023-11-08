@@ -1,3 +1,6 @@
+/* Dhio Eko Permana */
+/*   121140086   */
+/*       RB      */
 function ganjilgenap(){
     // deklarasi variabel mengambil element berdasarkan nama id
     let inputvalue = document.getElementById('inputvalue').value;
